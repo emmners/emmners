@@ -4,7 +4,7 @@
 #### 🌎 Interested in Urban Policy and Sustainability
 
 ## 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/emma-jee/
+LinkedIn: https://www.linkedin.com/in/emma-jee/ \
 Email: emmajee@bu.edu
 <!--
 **emmners/emmners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
