@@ -1,9 +1,9 @@
 # Hi there, I'm Emma! 👋
 
-## 🏫 Rising Junior @ Boston University studying Data Science
-## 📑 Interested in Urban Policy and Sustainability
+#### 🏫 Junior @ Boston University, studying Data Science
+#### 🌎 Interested in Urban Policy and Sustainability
 
-##📫 How to reach me:
+## 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/emma-jee/
 <!--
 **emmners/emmners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
